@@ -1,12 +1,12 @@
 {
     "piped": [
-        "https://pipedapi.drgns.space",
-        "https://nyc1.piapi.ggtyler.dev",
         "https://pipedapi.ducks.party",
-        "https://cal1.piapi.ggtyler.dev",
-        "https://piapi.ggtyler.dev",
         "https://pipedapi.orangenet.cc",
+        "https://pipedapi.drgns.space",
         "https://pol1.piapi.ggtyler.dev",
+        "https://nyc1.piapi.ggtyler.dev",
+        "https://piapi.ggtyler.dev",
+        "https://cal1.piapi.ggtyler.dev",
         "https://api.piped.private.coffee"
     ],
     "hls": [],
@@ -14,6 +14,6 @@
         "https://invidious.nikkosphere.com",
         "https://cal1.iv.ggtyler.dev"
     ],
-    "hyperpipe": "https://musicapi.reallyaweso.me",
+    "hyperpipe": "https://hyperpipeapi.onrender.com",
     "status": 0
 }
