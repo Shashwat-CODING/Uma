@@ -1,8 +1,7 @@
 {
     "piped": [
-        "https://nyc1.piapi.ggtyler.dev",
-        "https://cal1.piapi.ggtyler.dev",
         "https://pipedapi.drgns.space",
+        "https://nyc1.piapi.ggtyler.dev",
         "https://pol1.piapi.ggtyler.dev",
         "https://piapi.ggtyler.dev",
         "https://pipedapi.ducks.party",
@@ -11,9 +10,8 @@
     "hls": [],
     "invidious": [
         "https://invidious.nikkosphere.com",
-        "https://lekker.gay",
-        "https://cal1.iv.ggtyler.dev"
+        "https://lekker.gay"
     ],
-    "hyperpipe": "https://hyperpipeapi.darkness.services",
+    "hyperpipe": "https://hyperpipeapi.ducks.party",
     "status": 0
 }
