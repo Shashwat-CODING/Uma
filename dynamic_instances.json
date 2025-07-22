@@ -10,9 +10,8 @@
     ],
     "hls": [],
     "invidious": [
-        "https://cal1.iv.ggtyler.dev",
         "https://invidious.nikkosphere.com",
-        "https://lekker.gay"
+        "https://cal1.iv.ggtyler.dev"
     ],
     "hyperpipe": "https://hyperpipeapi.onrender.com",
     "status": 0
