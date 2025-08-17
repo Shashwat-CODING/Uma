@@ -8,8 +8,8 @@
     ],
     "hls": [],
     "invidious": [
-        "https://nyc1.iv.ggtyler.dev"
+        "https://invidious.nikkosphere.com"
     ],
     "hyperpipe": "https://hyperpipeapi.onrender.com",
-    "status": -1
+    "status": 0
 }
