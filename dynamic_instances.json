@@ -8,9 +8,8 @@
     ],
     "hls": [],
     "invidious": [
-        "https://invidious.nikkosphere.com",
-        "https://lekker.gay"
+        "https://invidious.nikkosphere.com"
     ],
-    "hyperpipe": "https://hpapi.ggtyler.dev",
+    "hyperpipe": "https://hyperpipeapi.onrender.com",
     "status": 0
 }
