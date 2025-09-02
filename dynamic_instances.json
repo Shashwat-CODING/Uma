@@ -2,16 +2,15 @@
     "piped": [
         "https://nyc1.piapi.ggtyler.dev",
         "https://piapi.ggtyler.dev",
-        "https://api.piped.private.coffee",
-        "https://pol1.piapi.ggtyler.dev",
         "https://pipedapi.ducks.party",
+        "https://pol1.piapi.ggtyler.dev",
+        "https://api.piped.private.coffee",
         "https://cal1.piapi.ggtyler.dev"
     ],
     "hls": [],
     "invidious": [
-        "https://invidious.nikkosphere.com",
-        "https://lekker.gay"
+        "https://invidious.nikkosphere.com"
     ],
-    "hyperpipe": "https://hyperpipeapi.ducks.party",
+    "hyperpipe": "https://hyperpipeapi.darkness.services",
     "status": 0
 }
