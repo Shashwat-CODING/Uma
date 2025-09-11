@@ -4,13 +4,12 @@
         "https://nyc1.piapi.ggtyler.dev",
         "https://piapi.ggtyler.dev",
         "https://pol1.piapi.ggtyler.dev",
-        "https://pipedapi.ducks.party",
-        "https://api.piped.private.coffee"
+        "https://pipedapi.ducks.party"
     ],
     "hls": [],
     "invidious": [
         "https://nyc1.iv.ggtyler.dev"
     ],
-    "hyperpipe": "https://hpapi.ggtyler.dev",
+    "hyperpipe": "https://hyperpipeapi.onrender.com",
     "status": -1
 }
